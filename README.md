@@ -13,7 +13,7 @@ MP3 Convertor Python Script
 - Select Video to be converted
 - Select Save location and file name
 - It works with any mp4 videos, other video formats are untested
-- It works with video(audio only) mp4 files , just make sure to comment and un-comment the necessary areas 
+- It works with video(audio only) mp4 files, just make sure to comment and un-comment the necessary areas 
 ```
 
 ##
